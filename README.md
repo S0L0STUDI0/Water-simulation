@@ -1,7 +1,9 @@
 # Water-simulation
 Blender file, simple water simulation.
 
-Notice: because there is to much files in the simulation data file it could not be uploaded into git hub, to successfully run the sumulation, the tutorial below might not work.
+Notice: because there is to much files in the simulation data file it could not be uploaded into git hub, to successfully run the sumulation, 
+
+the tutorial below might not work.
 
 1. download the file then go to layout tab.
 2. on the top right corner in scene selection click liquid domain.
